@@ -1,0 +1,201 @@
+
+/*=================================================================================
+    Sidebar
+====================================================================================*/
+/*----------------------------------------
+    Sidebar Main Menu 
+------------------------------------------*/
+nav ul li.no-hover:hover {
+    background: none;
+}
+
+ul.side-nav.my-leftside-navigation {
+    top: 64px;
+    background-color: #fff;
+}
+
+@media only screen and (max-width: 992px) {
+    ul.my-side-nav.my-leftside-navigation {
+        top: 56px;
+    }
+}
+ul.side-nav.my-leftside-navigation hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #e0e0e0;
+    margin: 1em 0;
+    padding: 0;
+}
+
+.side-nav a {
+    line-height: 42px;
+    height: 42px;
+}
+
+#my-left-sidebar-nav {
+    position: fixed;
+    width: 240px;
+    right: 0px;
+    z-index: 999;
+    height: auto;
+}
+
+#my-slide-out li a i {
+    line-height: inherit;
+    width: 2rem;
+    font-size: 1.6rem;
+    display: block;
+    float: right;
+    text-align: center;
+    margin-right: 1rem;
+}
+#my-slide-out.side-nav{
+    right: 0px;
+}
+#my-slide-out ul.side-nav li {
+    padding: 0px !important;
+}
+#my-slide-out ul.collapsible li.active a {
+    color: #00aff0 !important;
+}
+
+ul.side-nav li {
+    padding: 0;
+}
+
+ul.side-nav .collapsible-header {
+    margin: 0;
+}
+
+.caption {
+    font-size: 1.25rem;
+    font-weight: 300;
+    margin-bottom: 30px;
+}
+
+.caption-uppercase {
+    font-size: 1.25rem;
+    font-weight: 300;
+    margin-bottom: 30px;
+    text-transform: uppercase;
+}
+
+.sidebar-collapse {
+    position: absolute;
+    right: -170px;
+    top: -45px;
+}
+
+ul.side-nav.my-leftside-navigation {
+    overflow: hidden;
+}
+
+    ul.side-nav.my-leftside-navigation li {
+        line-height: 44px;
+    }
+
+        ul.side-nav.my-leftside-navigation li:hover,
+        ul.side-nav.my-leftside-navigation li.active {
+            background-color: rgba(0, 175, 240, 0.1);
+            color: #00aff0;
+        }
+
+        ul.side-nav.my-leftside-navigation li a {
+            font-size: 14px;
+            font-weight: bold;
+        }
+.side-nav.my-leftside-navigation .collapsible-body li.active,
+.side-nav.fixed.my-leftside-navigation .collapsible-body li.active {
+    background-color: #FAFAFA;
+    color: #00aff0;
+}
+
+    .side-nav.my-leftside-navigation .collapsible-body li.active a,
+    .side-nav.fixed.my-leftside-navigation .collapsible-body li.active a {
+        color: #444;
+    }
+
+.side-nav .collapsible-body li a {
+    margin: 0 1rem 0 3rem;
+}
+
+ul.side-nav.my-leftside-navigation ul.collapsible-accordion {
+    background-color: #FFF;
+}
+
+ul.side-nav.leftside-navigation:hover {
+    /*overflow-y:hidden;*/
+}
+
+ul.side-nav.my-leftside-navigation li.user-details {
+    /*background: url(../images/user-bg.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;*/
+    /*overflow: hidden;*/
+    margin-bottom: 15px;
+    padding: 15px 0px 0px 15px;
+    background-color: #00aff0;
+}
+
+.user-details .row {
+    margin: 0;
+}
+
+.user-task,
+.user-time {
+    margin: 0;
+    font-size: 13px;
+    color: #fff;
+}
+
+ul.side-nav.my-leftside-navigation .profile-image {
+    /*height: 50px;*/
+}
+
+ul.side-nav.my-leftside-navigation .profile-btn {
+    margin: 0;
+    text-transform: capitalize;
+    padding: 0;
+    text-shadow: 1px 1px 1px #444;
+    font-size: 15px;
+}
+
+.user-roal {
+    color: #fff;
+    margin-top: -16px;
+    font-size: 13px;
+    text-shadow: 1px 1px 1px #444;
+}
+
+.bold > a {
+    font-weight: bold;
+}
+
+nav.top-nav {
+    height: 122px;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+    nav.top-nav a.page-title {
+        line-height: 122px;
+        font-size: 48px;
+    }
+
+#main,
+footer {
+    padding-right: 240px;
+}
+@media only screen and (max-width: 993px) {
+    #main,
+    footer {
+        padding-right: 0px;
+    }
+    #my-left-sidebar-nav {
+    display: none;
+}
+}

@@ -1,0 +1,13 @@
+@media print{
+body { 
+	background: white; 
+	font-size: 12pt; 
+	direction: rtl;
+}
+	
+
+.not_printable{
+  display: none !important;
+}
+
+}
