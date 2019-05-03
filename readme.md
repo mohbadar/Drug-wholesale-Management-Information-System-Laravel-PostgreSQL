@@ -15,10 +15,8 @@ Majority of small-sized drug wholesale companies do not have any system to manag
 
 <h2> Technology: </h2>
  
-        <ul>
             <li>Laravel https://laravel.com/docs</li>
              <li>PostGreSQL https://www.postgresql.org/ </li>
             <li>JavaScript </li>
             <li>Materializecss https://materializecss.com/</li>
              <li>Materialize Admin Template http://demo.geekslabs.com/materialize/v3.1/</li>
-       </ul>
