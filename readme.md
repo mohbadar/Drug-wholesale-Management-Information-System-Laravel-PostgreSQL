@@ -14,10 +14,11 @@ Majority of small-sized drug wholesale companies do not have any system to manag
 
 
 <h2> Technology: </h2>
- The following technologies have been used in the development of this project
- 
+ The following technologies have been used in the development of this project:
            - Laravel https://laravel.com/docs
            - PostGreSQL https://www.postgresql.org/
            - JavaScript </li>
            - Materializecss https://materializecss.com/
            - Materialize Admin Template http://demo.geekslabs.com/materialize/v3.1/
+ 
+         
