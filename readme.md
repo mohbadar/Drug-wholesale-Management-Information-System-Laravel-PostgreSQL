@@ -9,7 +9,11 @@ Majority of small-sized drug wholesale companies do not have any system to manag
             <li>Generating reports for sales </li>
             <li>Generating reports for list of items in stock.</li>
              <li>Tracking Expenses.</li>
-            <li>Generating reports for status of stocks.</li>     
+            <li>Generating reports for status of stocks.</li> 
+             <li>Tracking Loans</li>
+             <li>Generating reports of loans</li>
+            <li>Tracking Bills and Invoices</li> 
+            <li>And More</li>         
        </ul>
 
 
