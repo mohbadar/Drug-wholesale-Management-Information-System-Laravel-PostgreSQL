@@ -8,7 +8,17 @@ Majority of small-sized drug wholesale companies do not have any system to manag
              <li>Tracking the expiration date for each item. </li>
             <li>Generating reports for sales </li>
             <li>Generating reports for list of items in stock.</li>
-            <li>Tracking Expenses.</li>
-   
+             <li>Tracking Expenses.</li>
+            <li>Generating reports for status of stocks.</li>     
+       </ul>
 
+
+<h2> Technology: </h2>
+ 
+        <ul>
+            <li>Laravel https://laravel.com/docs</li>
+             <li>PostGreSQL https://www.postgresql.org/ </li>
+            <li>JavaScript </li>
+            <li>Materializecss https://materializecss.com/</li>
+             <li>Materialize Admin Template http://demo.geekslabs.com/materialize/v3.1/</li>
        </ul>
